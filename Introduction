@@ -6,6 +6,14 @@ We can think of this subject as having three main blocks
 
 The processor will comprise of two main parts:
 **a) ALU **
+This will contain all the circuits required for carrying out arithmetic operations in the 
+processor of the CPU. 
+Addition : Half adder, full adder, subtractor, ripple carry adder, carry look ahead adder.
+multiplication: Booth's algorithm
+Division: restoring and non restoring Division
+
+We also study how to represent floating points and how to add floating points.
  
 **b) Control Unit**
+Here we will study how instructions are fetch from memory, decoded and then executed.
 
